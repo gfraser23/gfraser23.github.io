@@ -7,20 +7,19 @@ header {
 
 h1 {
   color:yellow;
+  text-align: center;
 }
 
   h2 {
     color:blue;
-    
-  }
+    }
   
   h3 {
     color: green;
-    
-  }
+    }
   
   h4 {
-    color: red;
+    color: gray;
   }
   
   

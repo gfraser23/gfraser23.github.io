@@ -18,8 +18,11 @@ h1 {
     color: green;
     }
   
-  h4 {
-    color: gray;
-  }
+.Slayer {
+  position: relative;
+}
+
+.Gwar {
+  position: relative;
   
   

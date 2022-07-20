@@ -18,11 +18,10 @@ h1 {
     color: green;
     }
   
-.Slayer {
-  position: relative;
+img [src*="scontent"] {
+  height: 400;
+  width: 300;
+  display: center;
 }
-
-.Gwar {
-  position: relative;
   
   

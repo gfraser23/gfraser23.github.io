@@ -22,6 +22,14 @@ h1 {
   h3 {
     color: green;
     }
+
+.Lists {
+  background-color: aqua;
+}
+
+.Interests {
+  background-color: orange;
+}
   
 img[src*="scontent"] {
   display: center;

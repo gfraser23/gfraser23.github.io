@@ -1,5 +1,5 @@
 body {
-  background: #111D45;
+  background: light-blue;
   margin: 0;
   padding: 0;
 }
@@ -8,7 +8,7 @@ body {
 
 header {
   color:black;
-  font-size: 24px;
+  font-size: 36px;
   text-align: center;
 }
 
@@ -33,14 +33,14 @@ h1 {
 
 .Lists {
   background-color: aqua;
+  text-align: center;
 }
 
 .Interests {
   background-color: orange;
+  text-align: left;
 }
   
-img[src*="scontent"] {
-  display: center;
-}
+
   
   

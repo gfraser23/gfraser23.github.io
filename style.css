@@ -38,4 +38,11 @@ h3 {
   color: green;
 }
   
+p {
+  color:black;
+  font-size: 18px;
+  line-height: 20px;
+  padding: 10px 20px;
+  margin-top: 40px;
+}
   

@@ -1,5 +1,5 @@
 body {
-  background: #A0522D;
+  background: #35D754;
   margin: 0;
   padding: 0;
 }
@@ -10,6 +10,9 @@ header {
   color:black;
   font-size: 36px;
   text-align: center;
+  padding: 10px;
+  border:10px;
+  margin: 10px;
 }
 
 
@@ -28,7 +31,7 @@ header {
 }
 
 .Interests {
-  background-color: orange;
+  background-color: yellow;
   text-align: left;
 }
   

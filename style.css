@@ -49,6 +49,10 @@ p {
   margin-top: 40px;
 }
 
+img[src*="logos-world"] {
+  padding-left: 20px;
+  padding-right: 20px;
+}
 
 
   

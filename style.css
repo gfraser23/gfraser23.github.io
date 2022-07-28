@@ -52,14 +52,10 @@ p {
 img[src*="logos-world"] {
   padding: 10px;
   border: 20px;
-  margin:15px;
+  margin: 15px;
 }
 
-h3 li {
-  font-size: 16px;
-  font-weight: bold;
-  font-family: verdana;
-}
+
 
 
   

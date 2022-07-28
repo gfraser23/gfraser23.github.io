@@ -50,9 +50,9 @@ p {
 }
 
 img[src*="logos-world"] {
-  padding: 20px;
-  border: 20px;
-  margin: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-raduis: 50%;
 }
 
 

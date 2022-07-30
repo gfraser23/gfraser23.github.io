@@ -27,7 +27,7 @@ header {
 .Lists {
   background-color: green;
   text-align: center;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 
@@ -40,7 +40,7 @@ h3 {
   
 p {
   color:black;
-  font-size: 18px;
+  font-size: 24px;
   line-height: 20px;
   padding: 10px 20px;
   margin-top: 40px;
@@ -50,9 +50,7 @@ p {
   width: 100%;
 }
 
-#slayer {
-  width: 100%;
-}
+
 
 #gwar {
   width: 100%;

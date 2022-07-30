@@ -10,10 +10,9 @@ header {
   color:black;
   font-size: 36px;
   text-align: center;
-  padding: 10px;
   border:10px solid black;
-  margin: 10px;
-  position: fixed;
+  width: 100%;
+  position: absolute;
   top: 0px;
   left: 0px;
 }

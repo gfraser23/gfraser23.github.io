@@ -45,6 +45,12 @@ p {
   margin-top: 40px;
 }
 
+.bands {
+  display: inline-block;
+  width: 200px;
+  height: 300px;
+}
+
 img[src*="logos-world"] {
   width: 100%;
   }

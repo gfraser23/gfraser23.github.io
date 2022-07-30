@@ -13,6 +13,7 @@ header {
   padding: 10px;
   border:10px solid black;
   margin: 10px;
+  position: absolute;
 }
 
 

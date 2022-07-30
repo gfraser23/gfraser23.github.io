@@ -46,9 +46,7 @@ p {
 }
 
 .bands {
-  display: inline-block;
-  width: 200px;
-  height: 300px;
+  display: inline;
 }
 
 img[src*="logos-world"] {

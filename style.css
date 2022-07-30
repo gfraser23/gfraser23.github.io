@@ -50,8 +50,7 @@ p {
 }
 
 img[src*="logos-world"] {
-  position: relative;
-  left: 300px;
+  width: 100%;
   }
 
 

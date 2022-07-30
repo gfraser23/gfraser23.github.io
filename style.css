@@ -27,13 +27,14 @@ header {
 .Lists {
   background-color: green;
   text-align: center;
+  font-size: 18px;
 }
 
 
   
 h3 {
   font-family: arial;
-  font-size: 16px;
+  font-size: 24px;
   color: green;
 }
   
@@ -45,8 +46,16 @@ p {
   margin-top: 40px;
 }
 
-.bands {
-  display: inline;
+#motley-crue {
+  width: 100%;
+}
+
+#slayer {
+  width: 100%;
+}
+
+#gwar {
+  width: 100%;
 }
 
 img[src*="logos-world"] {

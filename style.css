@@ -50,11 +50,9 @@ p {
 }
 
 img[src*="logos-world"] {
-  margin-left: 400px;
-  margin-right: 100px;
-  border: 3px solid blue;
-  
-}
+  position: relative;
+  left: 300px;
+  }
 
 
 

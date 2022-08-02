@@ -163,7 +163,7 @@ img[src*="logos-world"] {
   color: #ffffff;
 }
 
-question-link {
+.question-link {
   color: #ffffff;
   display: inline-block;
   font-family: 'Oswald',sans-serif;

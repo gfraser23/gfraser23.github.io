@@ -159,6 +159,48 @@ img[src*="logos-world"] {
   border-color: #fff;
 }
 
+.question-link:visited{
+  color: #ffffff;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+a:link {
+  color: #61bff9;
+}
+
+a:visited {
+  color: #466995;
+}
+
+a:hover { 
+  text-decoration: none;
+}
+
+a:active, .question-link:active {
+  color:#DBE9EE;
+}
+
+.answer {
+  color: #61bff9;
+  border: 1px solid #466995;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.answer:hover{
+  background-color: #C0D6DF;
+  transition: background-color .1s, color .1s;
+}
+
+.answer:active {
+  color: #ffffff;
+}
+   
+
 
 
 

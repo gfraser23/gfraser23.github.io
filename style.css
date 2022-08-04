@@ -243,6 +243,14 @@ img[src*="logos-world"] {
   content: ">";
 }
 
+.breadcrumbs a {
+  text-decoration: none;
+}
+
+.breadcrumbs:hover {
+  color: red;
+}
+
 
 
 

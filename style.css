@@ -222,7 +222,17 @@ img[src*="logos-world"] {
   text-transform: uppercase;
 }
 
+.answer-bank:hover {
+  background-color: #fff;
+  color:#2176FF;
+  transition: color .1s ease-in;
+  background-color: .1s ease-in;
+}
 
+.answer-bank:active {
+  font-size: 18px;
+  transition: font-size .1s ease-in-out;
+}
 
 
 

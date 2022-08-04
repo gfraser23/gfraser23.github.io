@@ -234,6 +234,15 @@ img[src*="logos-world"] {
   transition: font-size .1s ease-in-out;
 }
 
+.breadcrumbs > li {
+  display: inline;
+}
+
+.breadcrumbs li+li :: before {
+  padding: 10px;
+  content: ">";
+}
+
 
 
 

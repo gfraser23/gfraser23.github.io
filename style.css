@@ -13,7 +13,10 @@ header {
 
 p {
   text-alingn: center;
-  font-size: 24px;
+  font-size: 32px;
+  padding: 10px
+  border: 1px solid white;
+  margin: 10px;
 }
 
 h1 {

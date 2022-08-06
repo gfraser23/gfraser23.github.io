@@ -48,6 +48,64 @@ tr {
   margin-bottom: 3px;
 }
 
+.welcome {
+  background-color: #DBE9EE;
+  text-align: center;
+  width: 100vw;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+}
+
+.question-bank {
+  padding: 0px 60px;
+}
+
+.question {
+  margin: 60px auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.answer-bank {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.answer {
+  display: flex;
+  margin: 20px;
+  padding: 15px;
+  align-items: center;
+  justify-content: center;
+  width: 220px;
+  color: #466995;
+  font-family: 'Oswald',sans-serif;
+  font-size: 18px;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.answer-bank:hover {
+  background-color: #fff;
+  color:#2176FF;
+  transition: color .1s ease-in;
+  background-color: .1s ease-in;
+}
+
+.answer-bank:active {
+  font-size: 18px;
+  transition: font-size .1s ease-in-out;
+}
+
 
 
 

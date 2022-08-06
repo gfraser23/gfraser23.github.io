@@ -47,8 +47,8 @@ p {
 }
 
 #motley-crue {
-  width: 25%;
-  height: 100px;
+  width: 100%;
+  
 }
 
 table {
@@ -85,7 +85,7 @@ tr {
 
 
 #gwar {
-  width: 50%;
+  width: 100%;
 }
 
 img[src*="logos-world"] {

@@ -1,14 +1,13 @@
 body {
-  background: #35D7DD;
-  margin: 0;
-  padding: 0;
+  background: #4456ff;
+  
 }
 
 
 
 header {
   color:black;
-  font-size: 36px;
+  font-size: 52px;
   text-align: center;
   border:10px solid black;
   width: 100%;

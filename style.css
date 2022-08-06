@@ -12,10 +12,16 @@ header {
 }
 
 p {
-  height: 80px;
-  width: 240px;
+  height: 50%;
+  width: 100%;
   line-height: 32px;
 }
+
+h1 {
+  background-color: DarkCyan;
+  font-size: 24px;
+}
+  
 
 
 

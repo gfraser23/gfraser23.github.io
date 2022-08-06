@@ -241,7 +241,7 @@ img[src*="logos-world"] {
   display: inline;
 }
 
-.breadcrumbs li+li :: before {
+.breadcrumbs li+li ::before {
   padding: 10px;
   content: ">";
 }

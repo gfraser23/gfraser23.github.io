@@ -4,6 +4,7 @@ header {
   text-align: center;
   border:10px solid black;
   width: 100%;
+  background-color: red;
 }
 
 p {
@@ -11,6 +12,11 @@ p {
   font-weight: bold;
   text-align: center;
 }
+
+h1 {
+  background-color: DarkCyan;
+  font-weight: bold;
+  font-size: 18px;
 
 table {
   height: 40%;

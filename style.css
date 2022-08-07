@@ -119,8 +119,8 @@ tr {
   display: inline;
 }
 
-.breadcrumb li+li :: before {
-  content: ">";
+.breadcrumb li+li::before {
+  content:">";
 }
 
 

@@ -106,6 +106,10 @@ tr {
   transition: font-size .1s ease-in-out;
 }
 
+.color {
+  color: Crimson;
+}
+
 
 
 

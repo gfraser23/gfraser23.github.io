@@ -115,6 +115,10 @@ tr {
   color: Crimson;
 }
 
+.breadcrumb >li {
+  display: inline;
+}
+
 
 
 

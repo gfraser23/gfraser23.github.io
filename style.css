@@ -41,17 +41,89 @@ th, td {
 }
 
 thead th {
-  background: #5783FF;
-  color: #FFF;
+  background: black;
+  color: white;
   font-size: 16px;
   letter-spacing: 2px;
 }
 
 tr {
-  background: #f5f3dd;
   border-bottom: 1px solid #FFF;
   margin-bottom: 3px;
 }
+
+#blue {
+  background-color: blue;
+}
+
+#green {
+  background-color: green;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#red {
+  background-color: red;
+}
+
+#orange {
+  background-color: orange;
+}
+
+#purple {
+  background-color: purple;
+}
+
+#BDF123 {
+  background-color: #BDF123;
+}
+
+#ADC721 {
+  background-color: ADC721;
+}
+
+#D43D43 {
+  background-color: #D43D43;
+}
+
+#EE7744 {
+  background-color: #EE7744;
+}
+
+#CCB231 {
+  background-color: #CCB231;
+}
+
+#DDD772 {
+  background-color: #DDD772;
+}
+
+#RGB-23-45-23 {
+  background-color: rgb(23,45,23);
+}
+
+#RGB-120-12-12 {
+  background-color: rgb(120,12,12);
+}
+
+#RGB-200-50-0 {
+  background-color: rgb(200,50,0);
+}
+
+#RGB-0-150-25 {
+  background-color: rgb(0,150,25);
+}
+
+#RGB-100-25-125 {
+  background-color: rgb(100,25,125);
+}
+
+#RGB-0-200-150 {
+  background-color: rgb(0,200,150);
+}
+
 
 .welcome {
   background-color: #DBE9EE;

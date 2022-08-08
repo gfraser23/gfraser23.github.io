@@ -12,7 +12,7 @@ header {
   }
 
 p {
-  font-size: 24px;
+  font-size: 32px;
   font-weight: bold;
   text-align: center;
   font-family: 'Abril Fatface', cursive;
@@ -20,7 +20,8 @@ p {
 
 h1 {
   font-weight: bold;
-  font-size: 18px;
+  font-size: 24px;
+  font-family: 'Merriweather', serif;
 }
 
 table {

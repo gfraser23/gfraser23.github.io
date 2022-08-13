@@ -13,6 +13,7 @@ header {
 
 .sherdog {
   display: inline-block;
+  position: center;
 }
 
 .container {
@@ -24,9 +25,7 @@ header {
 .sherdog-left {
   font-size: 16px;
   
-  .sherdog-right {
-    font-size: 46px;
-  }
+ 
   
 
 p {

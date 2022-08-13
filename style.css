@@ -15,6 +15,20 @@ header {
   display: inline-block;
 }
 
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.sherdog-left {
+  font-size: 16px;
+  
+  .sherdog-right {
+    font-size: 46px;
+  }
+  
+
 p {
   font-size: 32px;
   font-weight: bold;

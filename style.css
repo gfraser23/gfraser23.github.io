@@ -11,6 +11,10 @@ header {
   width: 100%;
   }
 
+.sherdog {
+  display: inline;
+}
+
 p {
   font-size: 32px;
   font-weight: bold;

@@ -12,7 +12,7 @@ header {
   }
 
 .sherdog {
-  display: inline;
+  display: inline-block;
 }
 
 p {

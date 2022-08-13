@@ -229,6 +229,21 @@ section {
 .fifth-color {
   background-color: hsla(60, 100%, 50%, 1);
 }
+.sixth-color {
+  background-color: hsla(140, 100%, 50%, 1);
+}
+.seventh-color {
+  background-color: hsla(170, 100%, 50%, 1);
+}
+.eigth-color {
+  background-color: hsla(190, 100%, 50%, 1);
+}
+.ninth-color {
+  background-color: hsla(240, 100%, 50%, 1);
+}
+.tenth-color {
+  background-color: hsla(280, 100%, 50%, 1);
+}
 
 
 

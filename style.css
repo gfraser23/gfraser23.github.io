@@ -24,6 +24,13 @@ h1 {
   font-family: 'Merriweather', serif;
 }
 
+.first {
+  font-size= 18px;
+  font-weight= bold;
+}
+  
+  
+
 table {
   height: 40%;
   left: 10%;

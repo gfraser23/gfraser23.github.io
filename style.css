@@ -33,6 +33,11 @@ h1 {
   font-weight: bold;
   font-size: 24px;
   font-family: 'Merriweather', serif;
+  color: white;
+}
+
+figcaption {
+  color: white;
 }
 
 h3 {

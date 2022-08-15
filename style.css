@@ -20,14 +20,6 @@ header {
   background-color: black;
 }
  
-  
-
-p {
-  font-size: 32px;
-  font-weight: bold;
-  text-align: center;
-  font-family: 'Abril Fatface', cursive;
-}
 
 h1 {
   font-weight: bold;
@@ -55,6 +47,17 @@ h3 {
   font-size= 18px;
   font-weight= bold;
 }
+
+#att {
+  position: relative;
+  display: inline;
+  color: white;
+}
+
+h4 {
+  color: green;
+}
+  
   
 
 

@@ -38,17 +38,11 @@ h2 {
   text-align: center;
 }
 
-
-figcaption {
-  color: white;
-}
-
-
-
 #att {
   position: relative;
   display: inline;
   color: white;
+  text-align: right;
 }
 
 h4 {

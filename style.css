@@ -51,6 +51,10 @@ h4 {
 
 .nickname {
   background-color: gray;
+  display: block;
+  position: relative;
+  top: 0%;
+  width: 100%
 }
   
   

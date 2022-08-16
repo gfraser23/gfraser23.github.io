@@ -27,6 +27,8 @@ h1 {
   font-family: 'Merriweather', serif;
   color: white;
   text-align: center;
+  position: fixed;
+  display: inline;
   
 }
 

@@ -18,6 +18,7 @@ header {
 
 #sherdog {
   background-color: black;
+  border: 5px solid red;
 }
  
 
@@ -27,8 +28,8 @@ h1 {
   font-family: 'Merriweather', serif;
   color: white;
   text-align: center;
-  position: fixed;
   display: inline;
+  border: 1px solid green;
   
 }
 
@@ -45,10 +46,12 @@ h2 {
   display: inline;
   color: white;
   text-align: right;
+  border: 1px solid orange;
 }
 
 h4 {
   color: green;
+  border: 1px solid pink;
 }
 
 .nickname {
@@ -56,7 +59,8 @@ h4 {
   display: block;
   position: relative;
   top: 0%;
-  width: 100%
+  width: 100%;
+  border: 1px solid purple;
 }
   
   

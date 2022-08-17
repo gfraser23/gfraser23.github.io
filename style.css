@@ -30,7 +30,7 @@ h1 {
   display: inline;
   border: 1px solid green;
   position: relative;
-  bottom: 100%;
+  bottom: 300px;
   }
 
 #att {
@@ -40,7 +40,7 @@ h1 {
   border: 1px solid orange;
   position: relative;
   bottom: 300px;
-  right: 150px
+  left: 150px
 }
 
 h4 {
@@ -49,7 +49,7 @@ h4 {
   display: inline;
   position: relative;
   bottom: 150px;
-  right: 200px;
+  left: 150px;
   font-size: 24px;
   
 }

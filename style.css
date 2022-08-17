@@ -29,9 +29,8 @@ h1 {
   color: white;
   display: inline;
   border: 1px solid green;
-  position: relative
-  top: 0%;
-  right: 30%
+  position: relative;
+  bottom: 200px;
   }
 
 h2 {

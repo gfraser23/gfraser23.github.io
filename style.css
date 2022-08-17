@@ -24,12 +24,13 @@ header {
 
 h1 {
   font-weight: bold;
-  font-size: 24px;
+  font-size: 40px;
   font-family: 'Merriweather', serif;
   color: white;
-  text-align: center;
   display: inline;
   border: 1px solid green;
+  top: 0%;
+  width: 80%
   
 }
 
@@ -46,6 +47,7 @@ h2 {
   color: white;
   text-align: right;
   border: 1px solid orange;
+  top: 20%;
 }
 
 h4 {
@@ -53,14 +55,7 @@ h4 {
   border: 1px solid pink;
 }
 
-.nickname {
-  background-color: gray;
-  display: block;
-  position: relative;
-  top: 0%;
-  width: 100%;
-  border: 1px solid purple;
-}
+
   
   
 

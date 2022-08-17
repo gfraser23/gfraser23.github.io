@@ -30,28 +30,27 @@ h1 {
   display: inline;
   border: 1px solid green;
   position: relative;
-  bottom: 200px;
+  bottom: 400px;
   }
-
-h2 {
-  font-weight: bold;
-  font-size: 24px;
-  font-family: 'Merriweather', serif;
-  color: yellow;
-  text-align: center;
-}
 
 #att {
   display: inline;
   color: white;
   text-align: right;
   border: 1px solid orange;
-  top: 20%;
+  position: relative;
+  bottom: 300px;
 }
 
 h4 {
   color: green;
   border: 1px solid pink;
+  display: inline;
+  position: relative;
+  bottom: 150px;
+  left: 200px;
+  font-size: 24px;
+  
 }
 
 

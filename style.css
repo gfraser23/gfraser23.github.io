@@ -29,10 +29,10 @@ h1 {
   color: white;
   display: inline;
   border: 1px solid green;
+  position: relative
   top: 0%;
-  width: 80%
-  
-}
+  right: 30%
+  }
 
 h2 {
   font-weight: bold;

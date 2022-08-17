@@ -31,7 +31,7 @@ h1 {
   border: 1px solid green;
   position: relative;
   bottom: 400px;
-  left: 100px;
+  left: 200px;
   }
 
 #att {
@@ -40,7 +40,7 @@ h1 {
   text-align: right;
   border: 1px solid orange;
   position: relative;
-  bottom: 350px;
+  bottom: 400px;
   left: 200px
 }
 

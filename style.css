@@ -42,7 +42,7 @@ h2 {
   display: inline;
   border: 1px solid green;
   position: relative;
-  bottom: 400px;
+  bottom: 350px;
   left: 200px;
 
 #att {
@@ -51,7 +51,7 @@ h2 {
   text-align: right;
   border: 1px solid orange;
   position: relative;
-  bottom: 400px;
+  bottom: 300px;
   left: 200px
 }
 
@@ -60,7 +60,7 @@ h4 {
   border: 1px solid pink;
   display: inline;
   position: relative;
-  bottom: 200px;
+  bottom: 150px;
   left: 150px;
   font-size: 52px;
   }

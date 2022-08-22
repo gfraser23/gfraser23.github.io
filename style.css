@@ -22,30 +22,53 @@ header {
 }
 
 #name {
+  display: inline;
+  position: relative;
+  top: 350px;
+  left: 400px;
   font-size: 24px;
   color: white;
   border: 1px white solid;
 }
 
 #nickname {
+  display: inline;
+  position: relative;
+  top: 320px;
+  left: 400px;
   font-size: 24px;
   color: gold;
   border: 1px gold solid;
 }
 
 #att {
+  display: inline;
+  position: relative;
+  top:100px;
+  left: 251px;
   font-size: 16px;
   color: orange;
+  border: 1px orange solid;
 }
 
 #wins {
+  display: inline;
+  position: relative;
+  top: 100px;
+  left: 400px;
   font-size: 24px;
   color: green;
+  border: 1px green solid;
 }
 
 #losses {
+  display: inline;
+  position: relative;
+  top: 100px;
+  left: 450px;
   font-size: 24px;
   color: red;
+  border: 1px red solid;
 }
 
   

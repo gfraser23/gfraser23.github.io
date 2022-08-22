@@ -21,6 +21,17 @@ header {
   width: 1000px;
 }
 
+#name {
+  font-size: 24px;
+  color: white;
+}
+
+#nickname {
+  font-size: 24px;
+  color: gold;
+}
+  
+
 
 
   

@@ -24,10 +24,10 @@ header {
 #name {
   display: inline;
   position: relative;
-  bottom: 100%;
+  bottom: 95%;
   left: 50%x;
   font-size: 24px;
-  color: red;
+  color: white;
   border: 1px white solid;
 }
 

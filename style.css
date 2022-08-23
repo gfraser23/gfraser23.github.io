@@ -32,7 +32,7 @@ header {
 }
 
 #nickname {
-  display: flex;
+  display: inline;;
   position: relative;
   bottom: 85%;
   left: 50%;
@@ -42,7 +42,7 @@ header {
 }
 
 #att {
-  display: flex;
+  display: inline;
   position: relative;
   bottom 30%;
   left: 50%;
@@ -52,20 +52,20 @@ header {
 }
 
 #wins {
-  display: flex;
+  display: inline;
   position: relative;
   bottom: 40%
-  left: 70%;
+  left: 250px;
   font-size: 24px;
   color: green;
   border: 1px green solid;
 }
 
 #losses {
-  display: flex;
+  display: inline;
   position: relative;
   bottom 40%;
-  left: 80%;
+  left: 300px;
   font-size: 24px;
   color: red;
   border: 1px red solid;

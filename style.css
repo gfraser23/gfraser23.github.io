@@ -12,6 +12,7 @@ header {
 #me {
   width: 250px;
   height: 400px;
+  float: left;
 }
 
 .sherdog {
@@ -33,7 +34,9 @@ header {
 
 #nickname {
   display: inline;
-  position:absolute;
+  position:relative;
+  bottom: 80%;
+  left: 50%;
   font-size: 46px;
   color: gold;
   border: 1px gold solid;
@@ -41,19 +44,17 @@ header {
 }
 
 #att {
-  position: absolute;
+  position: relative;
   bottom 30%;
   left: 50%;
   font-size: 16px;
   color: orange;
   border: 1px orange solid;
-  float: left;
-  width: 100px;
 }
 
 #wins {
   display: inline;
-  position: absolute;
+  position: relative;;
   bottom: 40%
   left: 250px;
   font-size: 24px;
@@ -64,7 +65,7 @@ header {
 
 #losses {
   display: inline;
-  position: absolute;
+  position: relative;
   bottom 40%;
   left: 300px;
   font-size: 24px;

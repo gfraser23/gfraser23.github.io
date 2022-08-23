@@ -24,7 +24,7 @@ header {
 #name {
   display: inline;
   position: relative;
-  bottom: 0%
+  bottom: 100%
   left: 50%x;
   font-size: 24px;
   color: red;

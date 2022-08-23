@@ -26,19 +26,18 @@ header {
   position: relative;
   bottom: 95%;
   left: 50%x;
-  font-size: 24px;
+  font-size: 46px;
   color: white;
   border: 1px white solid;
+  text-align: center;
 }
 
 #nickname {
-  display: inline;;
-  position: relative;
-  bottom: 85%;
-  left: 50%;
-  font-size: 24px;
+  display: inline;
+  font-size: 46px;
   color: gold;
   border: 1px gold solid;
+  text-align: center;
 }
 
 #att {
@@ -48,7 +47,7 @@ header {
   font-size: 16px;
   color: orange;
   border: 1px orange solid;
-  float: right;
+  float: left;
   width: 100px;
 }
 
@@ -60,6 +59,7 @@ header {
   font-size: 24px;
   color: green;
   border: 1px green solid;
+  font-size: 32px;
 }
 
 #losses {
@@ -70,6 +70,7 @@ header {
   font-size: 24px;
   color: red;
   border: 1px red solid;
+  font-size: 32px;
 }
 
   

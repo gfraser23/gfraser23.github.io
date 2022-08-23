@@ -42,13 +42,14 @@ header {
 }
 
 #att {
-  display: inline;
   position: relative;
   bottom 30%;
   left: 50%;
   font-size: 16px;
   color: orange;
   border: 1px orange solid;
+  float: right;
+  width: 100px;
 }
 
 #wins {

@@ -23,8 +23,7 @@ header {
 }
 
 #name {
-  display: inline;
-  position: relative;
+ position: relative;
   bottom: 90%;
   left: 50%x;
   font-size: 46px;
@@ -33,7 +32,6 @@ header {
 }
 
 #nickname {
-  display: inline;
   position:relative;
   bottom: 75%;
   left: 50%;

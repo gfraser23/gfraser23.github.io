@@ -24,8 +24,7 @@ header {
 
 #name {
  position: relative;
-  bottom: 90%;
-  left: 50%x;
+  display: inline;
   font-size: 46px;
   color: silver;
   border: 1px white solid;
@@ -34,19 +33,17 @@ header {
 
 #nickname {
   position:relative;
-  bottom: 75%;
-  left: 50%;
+  display: inline;
   font-size: 46px;
   color: gold;
   border: 1px gold solid;
-  float: left;
+  
   
 }
 
 #att {
   position: relative;
-  bottom 30%;
-  left: 50%;
+  display: inline;
   font-size: 16px;
   color: orange;
   border: 1px orange solid;

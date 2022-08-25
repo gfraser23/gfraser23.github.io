@@ -48,6 +48,7 @@ header {
   font-size: 16px;
   color: orange;
   border: 1px orange solid;
+  width: 200px;
 }
 
 #wins {

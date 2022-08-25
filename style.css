@@ -19,28 +19,27 @@ header {
   background-color: black;
   border: 5px solid red;
   height: 400px;
-  width: 100%
+  width: 1000px;
 }
 
 #name {
   position: relative;
-  bottom: 0%;
+  top: 200px;
   display: inline;
+  top: 0%;
   font-size: 46px;
   color: silver;
   border: 1px white solid;
   float: left;
-}
+  }
 
 #nickname {
   position:relative;
-  display: inline;
   font-size: 46px;
   color: gold;
   border: 1px gold solid;
-  
-  
-}
+  float: left;
+  }
 
 #att {
   position: relative;
@@ -66,7 +65,7 @@ header {
 #losses {
   display: inline;
   position: relative;
-  bottom 0%;
+  bottom: 0%
   left: 300px;
   font-size: 24px;
   color: red;

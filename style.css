@@ -29,6 +29,7 @@ header {
   font-size: 46px;
   color: silver;
   border: 1px white solid;
+  float: left;
 }
 
 #nickname {
@@ -38,6 +39,7 @@ header {
   font-size: 46px;
   color: gold;
   border: 1px gold solid;
+  float: left;
   
 }
 
@@ -48,7 +50,7 @@ header {
   font-size: 16px;
   color: orange;
   border: 1px orange solid;
-  width: 200px;
+  float: left;
 }
 
 #wins {
@@ -60,6 +62,7 @@ header {
   color: green;
   border: 1px green solid;
   font-size: 32px;
+  float: left;
 }
 
 #losses {
@@ -71,6 +74,7 @@ header {
   color: red;
   border: 1px red solid;
   font-size: 32px;
+  float: left;
 }
 
   

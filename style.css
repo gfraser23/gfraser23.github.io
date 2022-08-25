@@ -23,7 +23,8 @@ header {
 }
 
 #name {
- position: relative;
+  position: relative;
+  bottom: 0%;
   display: inline;
   font-size: 46px;
   color: silver;

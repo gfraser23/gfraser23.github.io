@@ -29,7 +29,6 @@ header {
   top: 0%;
   font-size: 46px;
   color: silver;
-  border: 1px white solid;
   float: left;
   }
 
@@ -37,7 +36,6 @@ header {
   position:relative;
   font-size: 46px;
   color: gold;
-  border: 1px gold solid;
   float: left;
   }
 

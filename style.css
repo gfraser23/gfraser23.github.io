@@ -48,6 +48,7 @@ header {
   color: orange;
   border: 1px orange solid;
   float: left;
+  vertical-align: left;
 }
 
 #wins {

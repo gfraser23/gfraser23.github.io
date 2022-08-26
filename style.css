@@ -22,7 +22,7 @@ header {
   width: 1000px;
 }
 
-#name {
+.name {
   position: relative;
   top: 200px;
   display: inline;
@@ -32,7 +32,7 @@ header {
   float: left;
   }
 
-#nickname {
+.nickname {
   position:relative;
   font-size: 46px;
   color: gold;

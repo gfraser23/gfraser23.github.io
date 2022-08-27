@@ -30,7 +30,7 @@ header {
   top: 0%;
   font-size: 46px;
   color: silver;
-  float: left;
+  border: 1px silver solid;
   }
 
 .nickname {
@@ -38,7 +38,7 @@ header {
   top: 10;
   font-size: 46px;
   color: gold;
-  float: left;
+  border: 1px gold solid;
   }
 
 #att {
@@ -48,32 +48,30 @@ header {
   font-size: 16px;
   color: orange;
   border: 1px orange solid;
-  float: left;
+ 
   
 }
 
 #wins {
   display: inline;
-  position: relative;
+  position: absolute;
   bottom: 0%
   left: 250px;
   font-size: 24px;
   color: green;
   border: 1px green solid;
   font-size: 32px;
-  float: left;
 }
 
 #losses {
   display: inline;
-  position: relative;
+  position: absolute;
   bottom: 0%
   left: 300px;
   font-size: 24px;
   color: red;
   border: 1px red solid;
   font-size: 32px;
-  float: left;
 }
 
   

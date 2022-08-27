@@ -73,6 +73,14 @@ header {
   font-size: 32px;
 }
 
+#flag {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
   
 
 

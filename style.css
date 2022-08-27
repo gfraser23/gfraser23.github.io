@@ -43,7 +43,7 @@ header {
 
 #att {
   position: absolute;
-  left: 100px;
+  left: 150px;
   font-size: 16px;
   color: orange;
   border: 1px orange solid;
@@ -65,7 +65,7 @@ header {
 #losses {
   position: absolute;
   bottom: 0px;
-  left: 300px;
+  left: 450px;
   display: inline;
   font-size: 24px;
   color: red;

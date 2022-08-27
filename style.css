@@ -25,9 +25,8 @@ header {
 
 .name {
   position: absolute;
-  top: 0;
-  display: inline;
-  top: 0%;
+  top: 0px;
+  right: 200px;
   font-size: 46px;
   color: silver;
   border: 1px silver solid;
@@ -35,7 +34,8 @@ header {
 
 .nickname {
   position:absolute;
-  top: 10;
+  top: 50px;
+  right: 200px;
   font-size: 46px;
   color: gold;
   border: 1px gold solid;
@@ -43,7 +43,7 @@ header {
 
 #att {
   position: absolute;
-  left: 0;
+  left: 0px;
   font-size: 16px;
   color: orange;
   border: 1px orange solid;
@@ -53,7 +53,7 @@ header {
 
 #wins {
   position: absolute;
-  bottom: 0%
+  bottom: 0px;
   left: 250px;
   font-size: 24px;
   color: green;
@@ -63,7 +63,7 @@ header {
 
 #losses {
   position: absolute;
-  bottom: 0%
+  bottom: 0px;
   left: 300px;
   font-size: 24px;
   color: red;

@@ -34,7 +34,7 @@ header {
 
 .nickname {
   position:absolute;
-  top: 50px;
+  top: 75px;
   right: 200px;
   font-size: 46px;
   color: gold;
@@ -43,7 +43,7 @@ header {
 
 #att {
   position: absolute;
-  left: 0px;
+  left: 100px;
   font-size: 16px;
   color: orange;
   border: 1px orange solid;
@@ -55,6 +55,7 @@ header {
   position: absolute;
   bottom: 0px;
   left: 250px;
+  display: inline;
   font-size: 24px;
   color: green;
   border: 1px green solid;
@@ -65,6 +66,7 @@ header {
   position: absolute;
   bottom: 0px;
   left: 300px;
+  display: inline;
   font-size: 24px;
   color: red;
   border: 1px red solid;

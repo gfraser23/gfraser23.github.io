@@ -43,7 +43,7 @@ header {
 
 #att {
   position: absolute;
-  left: 200px;
+  left: 250px;
   font-size: 16px;
   color: orange;
   border: 1px orange solid;
@@ -74,11 +74,15 @@ header {
 }
 
 #flag {
-  width: 50px;
-  height: 50px;
+  width: 75px;
+  height: 75px;
   position: absolute;
   top: 0px;
   right: 0px;
+}
+
+figcaption {
+  color:yellow;
 }
 
   

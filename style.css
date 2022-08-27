@@ -44,7 +44,6 @@ header {
 #att {
   position: absolute;
   left: 0;
-  display: inline;
   font-size: 16px;
   color: orange;
   border: 1px orange solid;
@@ -53,7 +52,6 @@ header {
 }
 
 #wins {
-  display: inline;
   position: absolute;
   bottom: 0%
   left: 250px;
@@ -64,7 +62,6 @@ header {
 }
 
 #losses {
-  display: inline;
   position: absolute;
   bottom: 0%
   left: 300px;

@@ -25,7 +25,7 @@ header {
 
 .name {
   position: absolute;
-  top: 0px;
+  top: 10px;
   right: 200px;
   font-size: 46px;
   color: silver;
@@ -43,7 +43,7 @@ header {
 
 #att {
   position: absolute;
-  left: 150px;
+  left: 200px;
   font-size: 16px;
   color: orange;
   border: 1px orange solid;

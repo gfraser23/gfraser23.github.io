@@ -83,6 +83,9 @@ header {
 
 figcaption {
   color:yellow;
+  position: absolute;
+  top; 0px;
+  right:75px;
 }
 
   

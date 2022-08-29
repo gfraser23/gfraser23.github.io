@@ -92,7 +92,7 @@ table {
   height: 30%;
   margin: 20px;
   position: absolute;
-  bottom: 100px;
+  bottom: 0px;
   left: 250px;
   width: 30%;
 }

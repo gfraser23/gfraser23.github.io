@@ -60,8 +60,8 @@ header {
 
 #losses {
   position: absolute;
-  bottom: 750px;
-  left: 550px;
+  bottom: 150px;
+  left: 650px;
   display: inline;
   font-size: 24px;
   color: red;

@@ -29,7 +29,6 @@ header {
   right: 200px;
   font-size: 46px;
   color: silver;
-  border: 1px silver solid;
   }
 
 .nickname {
@@ -38,7 +37,6 @@ header {
   right: 200px;
   font-size: 46px;
   color: gold;
-  border: 1px gold solid;
   }
 
 #att {
@@ -47,9 +45,6 @@ header {
   bottom: 40px;
   font-size: 16px;
   color: orange;
-  border: 1px orange solid;
- 
-  
 }
 
 #wins {

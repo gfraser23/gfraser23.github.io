@@ -50,7 +50,7 @@ header {
 #wins {
   position: absolute;
   bottom: 150px;
-  left: 350px;
+  left: 550px;
   display: inline;
   font-size: 24px;
   color: green;
@@ -60,7 +60,7 @@ header {
 
 #losses {
   position: absolute;
-  bottom: 150px;
+  bottom: 750px;
   left: 550px;
   display: inline;
   font-size: 24px;
@@ -89,7 +89,7 @@ table {
   margin: 20px;
   position: absolute;
   bottom: 0px;
-  left: 250px;
+  left: 550px;
   width: 30%;
 }
 

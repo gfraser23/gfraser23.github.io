@@ -84,38 +84,6 @@ figcaption {
   right:75px;
 }
 
-.table {
-  height: 30%;
-  margin: 20px;
-  position: absolute;
-  bottom: 0px;
-  left: 550px;
-  width: 30%;
-}
-
-th, td {
-  font-family: 'Lato', sans-serif;
-  font-size: 14px;
-  padding: 20px;
-  text-align: left;
-  color: orange;
-}
-
-thead th {
-  color: white;
-  font-size: 16px;
-}
-
-tr {
-  border-bottom: 1px solid #FFF;
-  margin-bottom: 3px;
-}
-
-table {
-  border: 1px solid black;
-}
-
-
 
   
 

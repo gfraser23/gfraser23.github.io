@@ -84,6 +84,33 @@ figcaption {
   right:75px;
 }
 
+table {
+  height: 40%;
+  margin: 20px;
+  left: 10%;
+  width: 80%;
+}
+
+th, td {
+  font-size: 18px;
+  font-weight: 400px;
+  padding: 20px;
+  text-align: left;
+  width: 33.3333%
+}
+
+thead th {
+  background: black;
+  color: white;
+  font-size: 16px;
+  letter-spacing: 2px;
+}
+
+tr {
+  border-bottom: 1px solid #FFF;
+  margin-bottom: 3px;
+}
+
 
   
 

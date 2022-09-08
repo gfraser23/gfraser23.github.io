@@ -184,7 +184,25 @@ tr {
   background-color: #DD7421;
 }
 
+#RGB-100-150-200 {
+  background-color: rgb(100,150,200);
+}
 
+#RGB-0-200-60 {
+  background-color: rgb(0,200,60);
+}
+
+#RGB-10-70-20 {
+  background-color: rgb(10,70,20);
+}
+
+#RGB-190-10-120 {
+  background-color: rgb(190,10,120);
+}
+
+#RGB-250-0-60 {
+  background-color: rgb(250,0,60);
+}
 
   
 

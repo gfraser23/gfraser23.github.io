@@ -111,6 +111,14 @@ tr {
   margin-bottom: 3px;
 }
 
+.breadcrumb li {
+  display: inline;
+}
+.breadcrumb li+li::before {
+  color: gray;
+  content: ">";
+}
+
 
   
 

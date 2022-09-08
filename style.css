@@ -107,6 +107,7 @@ thead th {
 }
 
 tr {
+  background-color: gray;
   border-bottom: 1px solid #FFF;
   margin-bottom: 3px;
 }

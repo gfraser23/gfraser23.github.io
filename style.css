@@ -195,6 +195,7 @@ tr {
 
 .breadcrumb > li {
   display: inline;
+  text-decoration: none;
 }
 
 

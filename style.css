@@ -193,7 +193,7 @@ tr {
   background-color: rgb(250,0,60);
 }
 
-.breadcrumb {
+.breadcrumb > li {
   display: inline;
 }
 

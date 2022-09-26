@@ -17,7 +17,7 @@ h1 {
 }
 
 .container {
-  height: 150px;
+  height: 400px;
   background-color: whitesmoke;
   display: flex;
   justify-content: center;

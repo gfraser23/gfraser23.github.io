@@ -74,6 +74,15 @@ align-items: baseline;
   align-items: stretch;
 }
 
+left,
+.center,
+.right {
+  min-height: 75px;
+  width: 125px;
+  background-color: dodgerblue;
+  border: 2px solid lightgrey;
+}
+
   
 
 

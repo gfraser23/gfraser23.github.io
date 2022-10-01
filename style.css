@@ -8,30 +8,60 @@ header {
 
  h1 {
   font-size: 18px;
-  text-align: center;
 }
 
 h2 {
   font-size: 16px;
+}
+
+h1,
+h2 {
   text-align: center;
 }
 
-.container {
-  background-color: whitesmoke;
-}
-
-.box {
-  background-color: red;
-  height: 100px;
+.top,
+.middle,
+.bottom {
   width: 100px;
-  border: 1px solid lightgrey;
+  height: 100px;
+  background-color: dodgerblue;
+  border: 2px solid lightgrey;
+  margin: 10px 30px;
 }
 
-#flex {
-display: flex;
+.top.side {
+
 }
 
+.top.center {
 
+}
+
+.middle.side {
+
+}
+
+.middle.center {
+
+}
+
+.bottom.side {
+
+}
+
+.bottom.center {
+	
+}
+
+#top,
+#middle,
+#bottom {
+  display: flex;
+  background-color: Whitesmoke;
+  justify-content: center;
+  min-height: 200px;
+  align-items: center;
+}
 
 
 

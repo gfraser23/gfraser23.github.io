@@ -22,7 +22,7 @@ h1 {
 }
 
 .left,
-.right {
+.right, center {
   min-height: 75px;
   width: 200px;
   margin: 2px;

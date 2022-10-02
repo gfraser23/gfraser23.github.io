@@ -29,8 +29,11 @@ h1 {
   background-color: dodgerblue;
   border: 2px solid lightgrey;
 
-
-
+img {
+  margin: 10px auto;
+  height: auto;
+  width: auto;
+  }
 
 
 

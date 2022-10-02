@@ -13,17 +13,16 @@ h1 {
 }
 
 .container {
-  height: 500px;
+  height: 600px;
   width: 600px;
   background-color: whitesmoke;
-  display: flex;
-  flex-wrap: wrap;
+  display: inline-flex;
   margin: auto;
 }
 
 .left,
 .right, .center {
-  min-height: 200px;
+  height: 200px;
   width: 200px;
   margin: 2px;
   background-color: dodgerblue;
@@ -31,8 +30,8 @@ h1 {
 
 img {
   margin: 10px auto;
-  height: auto;
-  width: auto;
+  height: 100px;
+  width: 100px;
   }
 
 

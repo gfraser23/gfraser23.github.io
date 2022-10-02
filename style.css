@@ -22,8 +22,8 @@ h1 {
 }
 
 .left,
-.right, center {
-  min-height: 75px;
+.right, .center {
+  min-height: 200px;
   width: 200px;
   margin: 2px;
   background-color: dodgerblue;

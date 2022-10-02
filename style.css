@@ -14,7 +14,7 @@ h1 {
 
 .container {
   height: 600px;
-  width: 600px;
+  width: 100%;
   background-color: whitesmoke;
   display: inline-flex;
   margin: auto;
@@ -28,7 +28,13 @@ h1 {
   background-color: dodgerblue;
   border: 2px solid lightgrey;
 
-
+.left {
+   background-image: url(https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2020-09/JONES_JON_L_12-29.png?VersionId=_V_SgUOaxjt7ja7ddhcJB4m9ALbyeMJz&itok=kMklO45v);
+  }
+ 
+  .right {
+   background-image: url(https://static.wikia.nocookie.net/prowrestling/images/c/ce/Brock_lesnar_png_render_wwe_2021_by_v_mozz_der4wx0-fullview.png/revision/latest?cb=20220805052401);
+  }
 
 
 

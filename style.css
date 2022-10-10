@@ -72,6 +72,7 @@ h1 {
   justify-content: center;
   text-decoration: none;
   color: orange;
+  list-style: none;
 }
 
 #circle {

@@ -82,6 +82,21 @@ h1 {
   border-radius: 10px;
   color:orange;
   
+  h3 {
+    color: white;
+    font-size: 32px;
+  }
+  
+  h4 {
+    color: orange;
+    font-size: 32px;
+  }
+  
+  h5 {
+    color: white;
+    font-size: 32px;
+  }
+    
 
 
 

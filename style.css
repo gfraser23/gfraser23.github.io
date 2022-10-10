@@ -49,6 +49,7 @@ border-bottom: 1px solid seashell;
   height: auto;
   align-items: center;
   justify-content: center;
+  padding-left: 100px;
 }
 
 .fighter img {

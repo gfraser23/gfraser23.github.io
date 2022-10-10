@@ -68,6 +68,18 @@ h1 {
   justify-content: center;
 }
 
+.mainevent li {
+  justify-content: center;
+  text-decoration: none;
+  color: orange;
+}
+
+#circle {
+  height: 20px:
+  width: 20px;
+  border-radius: 10px;
+  color:orange;
+  
 
 
 

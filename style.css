@@ -43,6 +43,19 @@ border-bottom: 1px solid seashell;
   color: white;
 }
 
+.trend-container {
+  display: inline-flex;
+  max-width: 1000px;
+  height: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.fighters img {
+height: 200px;
+width: 300px;
+padding: 10px 10px;
+}
 
 
 

@@ -1,4 +1,18 @@
+header {
+  position: top;
+  color: black;
+  font-size: 24px;
+}
 
+.breadcrumb li {
+  display: inline;
+}
+
+.breadcrumb li+li:: before {
+  color: gray;
+  content: ">";
+}
+  
 
 
 

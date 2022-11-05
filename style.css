@@ -10,7 +10,7 @@ header {
   display: inline;
 }
 
-.breadcrumb li+li:: before {
+.breadcrumb li+li :: before {
   color: gray;
   content: ">";
 }

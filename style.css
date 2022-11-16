@@ -1,21 +1,2 @@
-header {
-  color:black;
-  font-size: 36px;
-  text-align: center;
-  border:10px solid black;
-  width: 100%;
-}
-
-.breadcrumb li {
-  display: inline;
-}
-
-.breadcrumb li+li :: before {
-  color: gray;
-  content: ">";
-}
-  
-
-
 
   

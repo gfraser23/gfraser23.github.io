@@ -6,12 +6,21 @@ header {
 }
 
 .breadcrumb > li {
-display: inline;
+  display: inline;
+
 }
 
-.breadcrumb li+li :: before {
-  padding: 10px;
+.breadcrumb li+li::before {
+	padding: 10px;
   content: ">";
+}
+
+.breadcrumb a {
+	text-decoration: none;
+}
+
+.breadcrumb a:hover {
+	color: red;
 }
 
 .button {

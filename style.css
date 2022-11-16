@@ -1,2 +1,15 @@
 
-  
+  header {
+    font-size: 48px;
+    position: top;
+}
+
+.breadcrumb > li {
+display: inline;
+}
+
+.breadcrumb li+li :: before {
+  padding: 10px;
+  content: ">";
+}
+    

@@ -1,5 +1,4 @@
-
-  header {
+header {
     font-size: 48px;
     position: top;
 }
@@ -33,4 +32,5 @@ display: inline;
 
 .color {
   background-color: #FF10d4;
+}
     

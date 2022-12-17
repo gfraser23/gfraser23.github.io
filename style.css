@@ -5,6 +5,10 @@ header {
     position: top;
 }
 
+.top {
+    background-color: dark-gray;
+}
+
 .bgc h1 {
   background-color: #05A8AA;
   color: #FFF;

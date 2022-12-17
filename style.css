@@ -20,10 +20,12 @@ header {
 .container {
     position: relative;
     display: inline;
+    border: 1px red solid;
 }
 
 .me {
     float: right;
+    border: 1px black solid;
 }
 
 

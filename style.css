@@ -3,6 +3,7 @@ header {
     position: top;
     width: 100%;
     border: 1px black solid;
+    text-align: center;
 }
 
 
@@ -26,6 +27,7 @@ header {
 .me {
     float: right;
     border: 1px black solid;
+    font-size: 36px;
 }
 
 

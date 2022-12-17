@@ -26,10 +26,6 @@ header {
     float: right;
 }
 
-img[src*="cdn"] {
-    position: bottom;
-    width: 100%;
-}
 
 
 

@@ -18,7 +18,8 @@ header {
 }
 
 .me {
-  position: inline;
+  position: relative;
+  display: inline;
  }
 
 image {

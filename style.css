@@ -16,6 +16,10 @@ header {
   width: 100%;
 }
 
+.container {
+    position: inline;
+}
+
 .me {
   float: right;
  }

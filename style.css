@@ -28,10 +28,13 @@ header {
 .me {
     float: right;
     font-size: 16px;
+    width: 50%;
 }
 
 .pic {
     display: inline;
+    width: 50%;
+    
 }
 
 

@@ -17,8 +17,7 @@ header {
 }
 
 .me {
-  position: relative;
-  display: inline;
+  float: right;
  }
 
 .house {

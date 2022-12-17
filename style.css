@@ -9,7 +9,8 @@ header {
 
 
 .bgc h1 {
-  color: black;
+  background-color: green;  
+  color: white;
   font-family: 'Oswald', sans-serif;
   font-size: 40px;
   font-weight: 300;

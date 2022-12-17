@@ -5,9 +5,7 @@ header {
     position: top;
 }
 
-.top {
-    background-color: dark-gray;
-}
+
 
 .bgc h1 {
   background-color: #4DBD40;
@@ -19,8 +17,9 @@ header {
   width: 68%;
 }
 
-.bottom {
-    background-color: dark-gray;
+.me {
+  display: inline:
+      
 }
 
 

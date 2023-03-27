@@ -1,41 +1,110 @@
-header {
-    font-size: 48px;
-    position: top;
-    width: 100%;
-    border: 1px black solid;
-    text-align: center;
+body {
+  background-color: white;
+  font-family: 'Raleway', sans-serif;
 }
 
-
-
-.bgc h1 {
-  color: black;
-  font-family: 'Oswald', sans-serif;
-  font-size: 40px;
-  font-weight: 300;
-  line-height: 40px;
-  width: 100%;
+.navigation ul {
+  margin: 0;
+  padding: 0;
   text-align: center;
 }
 
-.container {
-    position: relative;
-    display: inline;
-    
+.navigation li {
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 20px;
 }
 
-.me {
-    float: right;
-    font-size: 16px;
-    width: 48%;
+.navigation  li.logo {
+  color: black;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 4px;
 }
 
-.pic {
-    display: inline;
-    width: 48%;
-    
+#banner {
+  background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
+  background-size: cover;
+  background-position: bottom center;
+  height: 700px;
+  width: 100%;
 }
 
+#banner .content h1 {
+  border: 3px solid white;
+  position: relative;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+#main {
+  padding: 40px;
+  text-align: center;
+  width: 400px;
+}
+
+h1 {
+  color: white;
+  font-size: 42px;
+  font-weight: 600;
+  text-align: center;
+}
+
+h2 {
+  border: 1px dotted red;
+  color: red;
+  font-size: 14px;
+  line-height: 48px;
+  text-align: center;
+}
+
+h3 {
+  color: red;
+  font-size: 26px;
+  font-weight: 700;
+  padding: 20px 10px;
+}
+
+p {
+  color: grey;
+  font-size: 16px;
+  line-height: 48px;
+}
+
+.pull-quote {
+}
+
+.byline {
+  border-bottom: 1px solid LightGrey;
+  border-top: 1px solid LightGrey;
+  color: DarkGrey;
+  font-size: 14px;
+  font-weight: 200;
+}
+
+.share {
+  border: 1px solid LightGrey;
+  padding: 40px 0px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
+.share a {
+  background: red;
+  border: 1px solid red;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.share a:hover {
+  background: white;
+  border: 1px solid red;
+  color: red;
+}
 
 
 

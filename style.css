@@ -1,9 +1,35 @@
-.rectangle {
-  display: inline-block;
-  width: 200px;
-  height: 300px;
+header {
+  color:black;
+  font-size: 36px;
+  text-align: center;
+  border:10px solid black;
+  width: 100%;
 }
 
+
+
+.breadcrumb li {
+  display: inline;
+}
+
+.breadcrumb a {
+  text-decoration: none;
+}
+
+.breadcrumb li+li::before {
+  content:">";
+}
+
+.breadcrumb a:hover {
+  color: red;
+}
+
+.breadcrumb li.attribute::before {
+  content:"x";
+  font-size: 8px;
+  vertical-align: super;
+
+}
 
 
 

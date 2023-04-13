@@ -42,19 +42,19 @@ section {
 }
 
 .first-color {
-  background-color: hsla(0, 100%, 50%, 1);
+  background-color: hsla(8, 100%, 50%, 1);
 }
 .second-color {
-  background-color: hsla(0, 100%, 50%, 1);
+  background-color: hsla(15, 100%, 50%, 1);
 }
 .third-color {
-  background-color: hsla(0, 100%, 50%, 1);
+  background-color: hsla(30, 100%, 50%, 1);
 }
 .fourth-color {
-  background-color: hsla(0, 100%, 50%, 1);
+  background-color: hsla(45, 100%, 50%, 1);
 }
 .fifth-color {
-  background-color: hsla(0, 100%, 50%, 1);
+  background-color: hsla(60, 100%, 50%, 1);
 }
 
 

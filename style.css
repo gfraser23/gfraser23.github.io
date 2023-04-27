@@ -100,18 +100,85 @@ section {
 .grid {
   display: grid;
   border: 2px blue solid;
-  width: 400px;
-  height: 500px;
-  grid-template: 40% 50% 50px / 100px 50% 200px;
+  height: 800px;
+  width:800px;
+  grid-template: repeat(6, 1fr 1fr) / repeat(4, 1fr 1fr);
+  grid-gap: 5px;
 }
 
+.a {
+ grid-area: 1 / 1 / span 3 / span 3; 
+ background-color: blue;
+}
+
+.b {  
+  grid-area: 1 / 4 / span 1 / span 6;
+   background-color: red;
+}
+
+.c {
+  grid-area: 2 / 4 / span 1 / span 6;
+  
+}
+
+.d {
+  grid-area: 3 / 4 / span 1 / span 6;
+  background-color: red;
+  
+}
+
+.e {
+  grid-area: 4 / 1 / span 1 / span 8;
+}
+
+.f {
+  grid-area: 5 / 1 / span 1 / span 8;
+  background-color: red;
+}
+
+.g {
+  grid-area: 6 / 1 / span 1 / span 8;
+}
+
+.h {
+  grid-area: 7 / 1 / span 1 / span 8;
+  background-color: red;
+}
+
+.i {
+  grid-area: 8 / 1 / span 1 / span 8;
+}
+
+.j {
+  grid-area: 9 / 1 / span 1 / span 8;
+  background-color: red;
+}
+
+.k {
+  grid-area: 10 / 1 / span 1 / span 8;
+}
+
+.l {
+  grid-area: 11 / 1 / span 1 / span 8;
+   background-color: red;
+}
+
+.m {
+  grid-area: 12 / 1 / span 1 / span 8;
+}
+
+.n {
+  grid-area: 13 / 1 / span 1 / span 8;
+  background-color: red;
+}
+
+
+
 .box {
-  background-color: beige;
   color: black;
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
-
 
 
 

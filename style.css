@@ -7,10 +7,18 @@ header {
 }
 
 .image {
-   background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fufc-logo%2F&psig=AOvVaw0-3_9of60aCCpLHdoi7UvE&ust=1683649733390000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjKp5SS5v4CFQAAAAAdAAAAABAJ');
+background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fufc-logo%2F&psig=AOvVaw0-3_9of60aCCpLHdoi7UvE&ust=1683649733390000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjKp5SS5v4CFQAAAAAdAAAAABAJ');
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
+}
+  
+p .bio {
+  font-family: Helvetica, sans-serif;
+  font-size: 24px;
+  margin: 0;
+  background-color: white;
+  }
 
 
 

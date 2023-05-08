@@ -56,8 +56,15 @@ a {
 }
 
 
+a:hover {
+  color: red;
+}
 
-
+.li.attribute::before {
+  content:"x";
+  font-size: 8px;
+  vertical-align: super;
+}
 
 p {
   font-size: 32px;
@@ -65,29 +72,6 @@ p {
   width: 40%;
   margin: auto;
   padding: 30px;
-}
-
-
-.breadcrumb li {
-  display: inline;
-}
-
-.breadcrumb a {
-  text-decoration: none;
-}
-
-.breadcrumb li+li::before {
-  content:">";
-}
-
-.breadcrumb a:hover {
-  color: red;
-}
-
-.breadcrumb li.attribute::before {
-  content:"x";
-  font-size: 8px;
-  vertical-align: super;
 }
 
 

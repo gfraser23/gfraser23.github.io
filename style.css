@@ -6,17 +6,12 @@ header {
   width: 100%;
 }
 
-body {
-  background-color: black;
-
-
-p .bio {
-  font-family: Helvetica, sans-serif;
-  font-size: 24px;
-  margin: 0;
-  background-color: white;
-  }
-
+p {
+  font-size: 32px;
+  text-align: center;
+  margin: auto;
+  padding: 30px;
+}
 
 
 .breadcrumb li {
@@ -40,9 +35,6 @@ p .bio {
   font-size: 8px;
   vertical-align: super;
 }
-
-
-
 
 
 .grid {

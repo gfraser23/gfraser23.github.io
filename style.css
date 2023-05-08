@@ -9,13 +9,7 @@ header {
 body {
   background-color: black;
 
-.image {
-background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fufc-logo%2F&psig=AOvVaw0-3_9of60aCCpLHdoi7UvE&ust=1683649733390000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjKp5SS5v4CFQAAAAAdAAAAABAJ');
-background-repeat: no-repeat;
-background-position: center;
-background-size: cover;
-}
-  
+
 p .bio {
   font-family: Helvetica, sans-serif;
   font-size: 24px;
@@ -45,34 +39,9 @@ p .bio {
   content:"x";
   font-size: 8px;
   vertical-align: super;
-
 }
 
-section {
-  width: 100%;
-  display: block;
-  height: 18vh;
-  padding: 1vh;
-  font-size: 22px;
-  border-style: solid;
-  border-width: 0px 0px 1px 0px;
-}
 
-.first-color {
-  background-color: hsla(8, 100%, 50%, 1);
-}
-.second-color {
-  background-color: hsla(15, 100%, 50%, 1);
-}
-.third-color {
-  background-color: hsla(30, 100%, 50%, 1);
-}
-.fourth-color {
-  background-color: hsla(45, 100%, 50%, 1);
-}
-.fifth-color {
-  background-color: hsla(60, 100%, 50%, 1);
-}
 
 
 
